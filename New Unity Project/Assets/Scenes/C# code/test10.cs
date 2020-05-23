@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class test10 : MonoBehaviour
 {
     [SerializeField] private Text txt_name;
-    [SerializeField] private Image img_name;\
+    [SerializeField] private Image img_name;
     [SerializeField] private Sprite sprite;
 
     private bool isCoolTime = false;
